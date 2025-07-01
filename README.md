@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="left">Atualmente cursando o 2º período de Análise e Desenvolvimento de Sistemas. Sempre em busca de novos conhecimentos.</h5>
+<h4 align="left">Atualmente cursando o 2º período de Análise e Desenvolvimento de Sistemas. Sempre em busca de novos conhecimentos.</h5>
 
 ###
 
@@ -26,7 +26,7 @@
   <a href="https://www.linkedin.com/in/beatriz-avelar-7a0b82223/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="linkedin logo"  />
   </a>
-  <a href="malito:beatriz.savelar@gmail.com" target="_blank">
+  <a href="beatriz.savelar@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="gmail logo"  />
   </a>
 </div>
