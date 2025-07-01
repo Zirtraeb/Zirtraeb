@@ -1,4 +1,4 @@
-r<h1 align="left">Olá mundo, meu nome é Beatriz!</h1>
+<h1 align="left">Olá mundo, meu nome é Beatriz!</h1>
 
 ###
 
