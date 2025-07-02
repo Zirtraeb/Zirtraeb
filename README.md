@@ -35,8 +35,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zirtraeb&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=shades-of-purple&hide_border=false&order=2" height="155" alt="languages graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Zirtraeb&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shades-of-purple&locale=en&hide_border=false&order=1" height="175" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=Zirtraeb&locale=en&mode=weekly&theme=shades-of-purple&hide_border=false&border_radius=5&order=3" height="175" alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Zirtraeb&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shades-of-purple&locale=en&hide_border=false&order=1" height="170" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=Zirtraeb&locale=en&mode=weekly&theme=shades-of-purple&hide_border=false&border_radius=5&order=3" height="170" alt="streak graph" /> <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zirtraeb&radius=16&theme=nightowl&area=true&order=5" height="305" alt="activity-graph graph" />
 </div>
 
